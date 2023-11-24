@@ -1,6 +1,6 @@
 [🔙](/README.md)
 
-## Lesson #10. Aliases
+## Lesson #11. Aliases
 
 ### Использование types Aliases
 
