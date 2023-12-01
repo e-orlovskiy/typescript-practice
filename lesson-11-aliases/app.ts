@@ -17,10 +17,10 @@ let point: Point = { x: 10, y: 20 }
 
 // type alias для функции
 type Greeting = (name: string) => string
+
 let greet: Greeting = (name) => `Hello, ${name}!`
 
 // intersection
-
 type Person = {
 	name: string
 	age: number
