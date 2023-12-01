@@ -21,12 +21,11 @@ enum StatusCode {
 	// enum могуть быть не только числовыми
 	SUCCESS = 1,
 	IN_PROGRESS = 2,
-	FAILERD = 3
+	FAILED = 3
 }
 
 const resWithEnums = {
 	message: 'The payment is successful',
-
 	statusCode: StatusCode.SUCCESS
 }
 
