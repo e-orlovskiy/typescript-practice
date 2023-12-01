@@ -28,9 +28,9 @@ const logData3 = (data: { a: number } | { b: number }) => {
 }
 
 const logData4 = (a: string | number, b: string | boolean) => {
-	if (typeof a === typeof b) {
-		// могу обращаться к a и b как к строкам
-		console.log(a, b)
+	if (typeof a === 'string') {
+		a = a.slice(0, 1)
+		// b = b.slice(0, 2)
 	} else {
 		console.log(a)
 	}
