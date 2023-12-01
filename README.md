@@ -1,5 +1,7 @@
 # TypeScript pracitce
 
+## 📁SECTION #1. Types in TypeScript
+
 #### Lesson #1. Intro
 
 - [📒Теория](lesson-01-intro/notes.md)
@@ -39,3 +41,33 @@
 
 - [📒Теория](lesson-08-enum/notes.md)
 - [💻Практика](lesson-08-enum/app.ts)
+
+#### Lesson #9. Union
+
+- [📒Теория](lesson-09-union/notes.md)
+- [💻Практика](lesson-09-union/app.ts)
+
+#### Lesson #10. Literal
+
+- [📒Теория](lesson-10-literal/notes.md)
+- [💻Практика](lesson-10-literal/app.ts)
+
+#### Lesson #11. Types Aliases
+
+- [📒Теория](lesson-11-aliases/notes.md)
+- [💻Практика](lesson-11-aliases/app.ts)
+
+#### Lesson #12. Interfaces
+
+- [📒Теория](lesson-12-interfaces/notes.md)
+- [💻Практика](lesson-12-interfaces/app.ts)
+
+#### Lesson #13. Optional
+
+- [📒Теория](lesson-13-optional/notes.md)
+- [💻Практика](lesson-13-optional/app.ts)
+
+#### Lesson #14. Void
+
+- [📒Теория](lesson-14-void/notes.md)
+- [💻Практика](lesson-14-void/app.ts)
