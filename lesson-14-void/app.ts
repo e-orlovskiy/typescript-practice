@@ -11,7 +11,7 @@ const mult = (f: number, s?: number) => {
 	}
 }
 
-mult(5)
+console.log(mult(5, 5))
 
 // кейс использования void
 // эта запись говорит нам о том, что мы можем вернуть что угодно, но этот возврат в результате будет проигнорировано
@@ -22,8 +22,10 @@ const f1: voidFn = () => {}
 const f2: voidFn = () => {
 	return 2
 }
-
+let a = f1()
 let b = f2()
+
+console.log(b)
 
 // forEach + push
 // forEach ничего не возвращает
@@ -31,6 +33,4 @@ let b = f2()
 // благодаря void такой функционал допустим и эта связка работает правильно
 let arr = ['str1', 'str2']
 const arrStr: string[] = []
-arr.forEach((str) => {
-	arrStr.push(str)
-})
+arr.forEach((str) => arrStr.push(str))
