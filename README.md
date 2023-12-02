@@ -98,7 +98,7 @@
 - [💻Практика](lesson-19-type-guards/app.ts)
 - [💻Задание](lesson-19-type-guards/task.ts)
 
-## 📁SECTION #1. Types in TypeScript
+## 📁SECTION #2. Classes in TypeScript
 
 #### Lesson #20. Classes Intro
 
