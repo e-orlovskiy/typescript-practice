@@ -71,3 +71,36 @@
 
 - [📒Теория](lesson-14-void/notes.md)
 - [💻Практика](lesson-14-void/app.ts)
+
+#### Lesson #15. Unknown
+
+- [📒Теория](lesson-15-unknown/notes.md)
+- [💻Практика](lesson-15-unknown/app.ts)
+
+#### Lesson #16. Never
+
+- [📒Теория](lesson-16-never/notes.md)
+- [💻Практика](lesson-16-never/app.ts)
+
+#### Lesson #17. Null
+
+- [📒Теория](lesson-17-null/notes.md)
+- [💻Практика](lesson-17-null/app.ts)
+
+#### Lesson #18. Type Casting and Assertion
+
+- [📒Теория](lesson-18-type-casting-and-assertion/notes.md)
+- [💻Практика](lesson-18-type-casting-and-assertion/app.ts)
+
+#### Lesson #19. Type Guards
+
+- [📒Теория](lesson-19-type-guards/notes.md)
+- [💻Практика](lesson-19-type-guards/app.ts)
+- [💻Задание](lesson-19-type-guards/task.ts)
+
+## 📁SECTION #1. Types in TypeScript
+
+#### Lesson #20. Classes Intro
+
+- [📒Теория](lesson-19-type-guards/notes.md)
+- [💻Практика](lesson-19-type-guards/app.ts)
