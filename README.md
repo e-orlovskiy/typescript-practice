@@ -128,5 +128,5 @@
 
 #### Lesson #25. Extends
 
-- [📒Теория](lesson-25-extendsW/notes.md)
+- [📒Теория](lesson-25-extends/notes.md)
 - [💻Практика](lesson-25-extends/app.ts)
