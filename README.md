@@ -102,5 +102,31 @@
 
 #### Lesson #20. Classes Intro
 
-- [📒Теория](lesson-19-type-guards/notes.md)
-- [💻Практика](lesson-19-type-guards/app.ts)
+- [📒Теория](lesson-20-classes-intro/notes.md)
+- [💻Практика](lesson-20-classes-intro/app.ts)
+
+#### Lesson #21. Constructor and overload
+
+- [📒Теория](lesson-21-constructor-overload/notes.md)
+- [💻Практика](lesson-21-constructor-overload/app.ts)
+
+#### Lesson #22. Methods
+
+- [📒Теория](lesson-22-methods/notes.md)
+- [💻Практика](lesson-22-methods/app.ts)
+- [💻Задание](lesson-22-methods/task.ts)
+
+#### Lesson #23. Getters and Setters
+
+- [📒Теория](lesson-23-getters-and-setters/notes.md)
+- [💻Практика](lesson-23-getters-and-setters/app.ts)
+
+#### Lesson #24. Implements
+
+- [📒Теория](lesson-24-implements/notes.md)
+- [💻Практика](lesson-24-implements/app.ts)
+
+#### Lesson #25. Extends
+
+- [📒Теория](lesson-25-extendsW/notes.md)
+- [💻Практика](lesson-25-extends/app.ts)
