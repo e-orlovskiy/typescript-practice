@@ -130,3 +130,14 @@
 
 - [📒Теория](lesson-25-extends/notes.md)
 - [💻Практика](lesson-25-extends/app.ts)
+-
+
+#### Lesson #26. Extends
+
+- [📒Теория](lesson-26-extends-vs-composition/notes.md)
+- [💻Практика](lesson-25-extends-vs-composition/app.ts)
+
+#### Lesson #27. Properties visibility
+
+- [📒Теория](lesson-27-properties-visibility/notes.md)
+- [💻Практика](lesson-27-properties-visibility/app.ts)
