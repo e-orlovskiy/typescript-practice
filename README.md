@@ -130,7 +130,6 @@
 
 - [📒Теория](lesson-25-extends/notes.md)
 - [💻Практика](lesson-25-extends/app.ts)
--
 
 #### Lesson #26. Extends
 
@@ -141,3 +140,4 @@
 
 - [📒Теория](lesson-27-properties-visibility/notes.md)
 - [💻Практика](lesson-27-properties-visibility/app.ts)
+- [💻Задание](lesson-27-properties-visibility/task.ts)
