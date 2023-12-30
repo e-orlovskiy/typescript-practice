@@ -141,3 +141,41 @@
 - [📒Теория](lesson-27-properties-visibility/notes.md)
 - [💻Практика](lesson-27-properties-visibility/app.ts)
 - [💻Задание](lesson-27-properties-visibility/task.ts)
+
+#### Lesson #28. Static
+
+- [📒Теория](lesson-28-static/notes.md)
+- [💻Практика](lesson-28-static/app.ts)
+
+#### Lesson #29. This
+
+- [📒Теория](lesson-29-this/notes.md)
+- [💻Практика](lesson-29-this/app.ts)
+
+#### Lesson #30. Abstract classes
+
+- [📒Теория](lesson-30-abstract-classes/notes.md)
+- [💻Практика](lesson-30-abstract-classes/app.ts)
+
+## 📁SECTION #3. GENERICS
+
+#### Lesson #31. Generics built-in
+
+- [📒Теория](lesson-31-generics-built-in/notes.md)
+- [💻Практика](lesson-31-generics-built-in/app.ts)
+
+#### Lesson #32. Generics in function
+
+- [📒Теория](lesson-32-generics-in-function/notes.md)
+- [💻Практика](lesson-32-generics-in-function/app.ts)
+- [💻Задание](lesson-32-generics-in-function/task.ts)
+
+#### Lesson #33. Generics and types
+
+- [📒Теория](lesson-33-generics-and-types/notes.md)
+- [💻Практика](lesson-33-generics-and-types/app.ts)
+
+#### Lesson #34. Generics extends
+
+- [📒Теория](lesson-34-generics-extends/notes.md)
+- [💻Практика](lesson-34-generics-extends/app.ts)
