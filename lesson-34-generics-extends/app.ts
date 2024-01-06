@@ -18,7 +18,10 @@ const user2 = ageIncrease(new Admin())
 console.log(ageIncrease({ name: 'fff', age: 55 }))
 // ageIncrease({ name: 'fff', age: true }) // ошибка!
 
-function logId<T extends string | number, Y>(id: T, prop: Y): { id: T; prop: Y } {
+function logId<T extends string | number, Y>(
+	id: T,
+	prop: Y
+): { id: T; prop: Y } {
 	console.log(id)
 	console.log(prop)
 	return { id, prop }

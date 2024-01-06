@@ -10,7 +10,10 @@ interface Id {
 	id: number
 }
 
-function sortById<T extends Id>(arr: T[], sortType: 'asc' | 'dsc' = 'asc'): T[] {
+function sortById<T extends Id>(
+	arr: T[],
+	sortType: 'asc' | 'dsc' = 'asc'
+): T[] {
 	return arr.sort((a, b) => {
 		if (sortType === 'asc') {
 			return a.id - b.id
@@ -48,7 +51,7 @@ function filteredArr<T extends Car>(
 	cars: T[],
 	manufacturer: 'Manufacturer A' | 'Manufacturer B'
 ): T[] {
-	return cars.filter((car) => car.manufacturer === manufacturer)
+	return cars.filter(car => car.manufacturer === manufacturer)
 }
 
 const filteredCars = filteredArr(
