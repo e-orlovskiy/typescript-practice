@@ -32,7 +32,10 @@ printLength([1, 2, 3]) // Выводит: 3
 Мы также можем использовать множественные ограничения, указывая несколько типов через оператор `&`.
 
 ```typescript
-function mergeObjects<T extends object, U extends object>(obj1: T, obj2: U): T & U {
+function mergeObjects<T extends object, U extends object>(
+	obj1: T,
+	obj2: U
+): T & U {
 	return { ...obj1, ...obj2 }
 }
 ```
