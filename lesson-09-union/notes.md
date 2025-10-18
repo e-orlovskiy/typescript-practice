@@ -19,5 +19,7 @@ const logId = (data: string | number | boolean) => {
 Сужение типов (Narrowing) - позволяет, сделав рантайм проверку, применить ограничения на наш тип в рамках TypeScript.
 
 пример:
+
 ![Alt text](images/image.png)
+
 На данном примере мы видим, что проверив первый кейс `if (typeof data === 'number')` у нас произошло сужение union типа и typescript теперь понимает, что `data` может быть либо `number` либо `boolean`.
