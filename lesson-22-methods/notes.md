@@ -10,7 +10,7 @@
 
 ```typescript
 class MyClass {
-	fieldValue: string
+	myField: string
 
 	// Конструктор класса
 	constructor(fieldValue: string) {
